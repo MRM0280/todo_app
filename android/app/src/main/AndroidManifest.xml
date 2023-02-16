@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.todo_app">
+    package="com.FunctionalFlutter.DoIt">
    <application
         android:label="Do It"
         android:name="${applicationName}"
